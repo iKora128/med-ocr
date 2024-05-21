@@ -1,0 +1,17 @@
+# Ignore images folder
+/ocr-app/images/*
+
+# Ignore output folder
+/output/*
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore __pycache__ folder
+__pycache__/
+
+# Ignore .vscode folder
+.vscode/
+
+# Ignore .streamlit folder
+/ocr-app/.streamlit/*
